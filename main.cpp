@@ -1,5 +1,5 @@
 // Practising GitHub collaboration
-// A small C++ project for practising Git and GitHub.
+// Entry point for the Git and GitHub practice program.
 #include <iostream>
 using namespace std;
 
